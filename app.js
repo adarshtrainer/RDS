@@ -13,7 +13,7 @@ const db = mysql.createConnection({
   // NOTE FOR APP TESTING: CHNAGE DB CONNECTION URL AS BELOW
   host: "database-1.xyz.ap-south-1.rds.amazonaws.com",
   user: "admin",
-  password: "261997Adi#",
+  password: "password",
   // Initial DB name
   database: "db",
   port: 4021,
